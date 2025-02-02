@@ -1,0 +1,151 @@
+.background{
+    width:100%;
+    height:100vh;
+    background-image: url("black_bg.jpeg");
+    background-position: centre;
+    background-size: cover;
+    position: relative;
+}
+.Karan{
+    position:relative; 
+    height: 200px;;
+    width:200; 
+    background-color:antiquewhite;
+    left: 250px;
+    top:50px;
+    background-image: url("karan\ aujla\ image\ for\ project.jpeg");
+    background-size: cover;   
+}
+.karan:hover{
+    
+        transform:scale(1.1);
+        transition-duration: 0.5s;
+}
+.karan a{
+    position: relative;
+    color: aliceblue;
+    left:35px;
+    top:220;
+    text-decoration:none;
+    font-size: larger;
+    font-style:normal;
+}
+.navaan{
+    position:relative;
+    height: 200px;
+    width:200;
+    background-color: antiquewhite;
+    left:650px;
+    bottom:150px;
+    background-image:url("Navaan\ sandhu.jpg");
+    background-size:cover;
+    
+}
+.navaan:hover{
+    transform:scale(1.1);
+    transition-duration: 0.5s;
+}
+.navaan a{
+    position: relative;
+    color: aliceblue;
+    left:25px;
+    top:220;
+    text-decoration:none;
+    font-size: larger;
+    font-style:normal;
+}
+
+.sidhu{
+    position:relative;
+    height: 200px;
+    width:200;
+    background-color: antiquewhite;
+    left:1050px;
+    bottom:370px;
+    background-image:url("sidhu\ moosewala.jpeg");
+    background-size: cover;
+}
+.sidhu:hover{
+    transform:scale(1.1);
+    transition-duration: 0.5s;
+} 
+.sidhu p{
+    position: relative;
+    color: aliceblue;
+    left:15px;
+    top:220;
+    text-decoration:none;
+    font-size: larger;
+    font-style:normal;
+}  
+.diljit{
+    position:relative; 
+    height: 200px;;
+    width:200; 
+    background-color:antiquewhite;
+    left: 250px;
+    bottom:700px;
+    background-image:url("diljit\ dosanjh.jpeg");
+    background-size: cover;
+}
+.diljit:hover{
+    transform:scale(1.1);
+    transition-duration: 0.5s;
+} 
+.diljit p{
+    position: relative;
+    color: aliceblue;
+    left:30px;
+    top:220;
+    text-decoration:none;
+    font-size: larger;
+    font-style:normal;
+}   
+.Ap
+{
+    position:relative;
+    height: 200px;
+    width:200;
+    background-color: antiquewhite;
+    left:650px;
+    bottom:260px;
+    background-image:url("AP.Dhillon.jpg");
+    background-size: cover;
+}
+.AP:hover{
+    transform:scale(1.1);
+    transition-duration: 0.5s;
+}
+.Ap p{
+    position: relative;
+    color:aliceblue;
+    left:45px;
+    top:220;
+    text-decoration:none;
+    font-size: larger;
+    font-style:normal;
+}
+.shubh{
+    position:relative;
+    height: 200px;
+    width:200;
+    background-color: antiquewhite;
+    left:1050px;
+    bottom:480px;
+    background-image:url("shubbh.jpg");
+    background-size: cover;
+}
+.shubh:hover{
+    transform:scale(1.1);
+    transition-duration: 0.5s;
+}
+.shubh p{
+    position: relative;
+    color: aliceblue;
+    left:70px;
+    top:220px;
+    text-decoration:none;
+    font-size: larger;
+    font-style:normal;
+}    
+

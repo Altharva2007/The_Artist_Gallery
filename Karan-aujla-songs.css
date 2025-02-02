@@ -1,0 +1,150 @@
+
+.karan_image{
+    width:250px;
+    height:300px;
+    position: relative;
+    background-image: url("karan2.jpg");
+    background-size: cover;
+    left:50px;
+    top:50px;
+}
+.karan_image p{
+   position: relative;
+   font-size: 20px;
+   color: aliceblue;
+   top:320px;
+   left:55px;
+}
+.aujla_info{
+    width:950px;
+    height:500px;
+    position: relative;
+    left:400px;
+    bottom:270px;
+    background-color:black;
+
+}
+.winning_art{
+    position:relative;
+    width: 150px;
+    height:150px;
+    background-image: url("Winning-Speech-cover-art.jpg");
+    background-size: cover;
+    left:150px;
+    bottom:350px;   
+}
+.Winning_art p{
+    position:relative;
+    font-size:18px;;
+    color: aliceblue;
+    Top:170px;
+    left:2px;
+    font-style:inherit
+}
+.winning_art audio{
+    position: relative;
+    right:70px;
+    top:170px;
+}
+.Wavy_art{
+    position:relative;
+    width: 150px;
+    height:150px;
+    background-image: url("wavy.jpeg");
+    background-size: cover;
+    left:650px;
+    bottom:515px;
+}
+.wavy_art p{
+    position: relative;
+    color: aliceblue;
+    top: 170px;
+    left:50px;
+}
+.wavy_art audio{
+    position: relative;
+    right:70px;
+    top: 170px;
+}
+.Antidote_art{
+    position: relative;
+    width: 150px;
+    height:150px;
+    background-image: url("four\ me\ image.jpeg");
+    background-size: cover;
+    left: 1100px;
+    bottom:690px;
+}
+.Antidote_art p{
+    position: relative;
+    color: aliceblue;
+    top: 170px;
+    left:30px;
+}
+.Antidote_art audio{
+    position: relative;
+    right:70px;
+    top:170px;
+}
+.admiring_art{
+    position: relative;
+    width: 150px;
+    height:150px;
+    background-image: url("Admirin-You-feat-Preston-Pablo.jpg");
+    background-size: cover;
+    left: 150px;
+    bottom:470px;
+}
+.admiring_art p{
+    position:relative;
+    font-size:18px;;
+    color: aliceblue;
+    Top:170px;
+    left:15px;
+    font-style:inherit
+}
+.admiring_art audio{
+    position: relative;
+    right:70px;
+    top:170px;
+}
+.idk_art{
+    position: relative;
+    width: 150px;
+    height:150px;
+    background-image: url("idk_how_art.jpeg");
+    background-size: cover;
+    left: 650px;
+    bottom:630px;
+}
+.idk_art p{
+    position: relative;
+    color: aliceblue;
+    top: 170px;
+    left:35px;
+}
+.idk_art audio{
+    position: relative;
+    right:70px;
+    top: 170px;
+}
+.bars_art{
+    position: relative;
+    width: 150px;
+    height:150px;
+    background-image: url("52_bars.jpeg");
+    background-size: cover;
+    left: 1100px;
+    bottom:800px; 
+}
+.bars_art p{
+    position: relative;
+    color: aliceblue;
+    top: 170px;
+    left:40px;
+}
+.bars_art audio{
+    position: relative;
+    right:75px;
+    top: 175px;
+}   
