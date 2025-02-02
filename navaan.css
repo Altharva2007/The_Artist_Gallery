@@ -1,0 +1,149 @@
+.navaan_image{
+    width:250px;
+    height:300px;
+    position: relative;
+    background-image: url("Navaan2.jpg");
+    background-size: cover;
+    left:50px;
+    top:50px;
+}
+.navaan_image p{
+    position: relative;
+    font-size: 20px;
+    color: aliceblue;
+    top:320px;
+    left:45px;
+ }
+.navaan_info{
+    width:950px;
+    height:500px;
+    position: relative;
+    left:400px;
+    bottom:250px;
+    background-color:rgb(2, 0, 0);
+
+}
+.ambarsaria_art{
+    position:relative;
+    width: 150px;
+    height:150px;
+    background-image: url("ambarsaria_navaan.jpeg");
+    background-size: cover;
+    left:250px;
+    bottom:350px;
+}
+.ambarsaria_art p{
+    position:relative;
+    font-size:18px;;
+    color: aliceblue;
+    Top:170px;
+    left:15px;
+    font-style:inherit
+}
+.ambarsaria_art audio{
+    position: relative;
+    right:70px;
+    top:170px;
+}    
+.sit_down_son_art{
+    position:relative;
+    width: 150px;
+    height:150px;
+    background-image: url("sit_down_son_navaan.jpeg");
+    background-size: cover;
+    left:650px;
+    bottom:520px;
+}
+.sit_down_son_art p{
+    position: relative;
+    color: aliceblue;
+    top: 170px;
+    left:20px;
+}
+.sit_down_son_art audio{
+    position: relative;
+    right:70px;
+    top: 180px;
+}    
+.Famous_enough_art{
+    position: relative;
+    width: 150px;
+    height:150px;
+    background-image: url("famous_enough_navaan.jpeg");
+    background-size: cover;
+    left:1050px;
+    bottom:690px;
+}
+.Famous_enough_art p{
+    position: relative;
+    color: aliceblue;
+    top: 170px;
+    left:10px;
+}
+.Famous_enough_art audio{
+    position: relative;
+    right:70px;
+    top:180px;
+}
+.hirni_art{
+    position: relative;
+    width: 150px;
+    height:150px;
+    background-image: url("hirni_navaan.jpeg");
+    background-size: cover;
+    left: 250px;
+    bottom:500px;
+}
+.hirni_art p{
+    position:relative;
+    font-size:18px;;
+    color: aliceblue;
+    Top:170px;
+    left:50px;
+    font-style:inherit
+}
+.hirni_art audio{
+    position: relative;
+    right:70px;
+    top:170px;
+}
+.the_finest_art{
+    position: relative;
+    width: 150px;
+    height:150px;
+    background-image: url("The_finest_navaan.jpeg");
+    background-size: cover;
+    left: 650px;
+    bottom:660px;
+}
+.the_finest_art p{
+    position: relative;
+    color: aliceblue;
+    top: 170px;
+    left:30px;
+}
+.the_finest_art audio{
+    position: relative;
+    right:80px;
+    top: 170px;
+}
+.jail_art{
+    position: relative;
+    width: 150px;
+    height:150px;
+    background-image: url("Jail_image.jpeg");
+    background-size: cover;
+    left: 1050px;
+    bottom:830px; 
+}
+.jail_art p{
+    position: relative;
+    color: aliceblue;
+    top: 170px;
+    left:60px;
+}
+.jail_art audio{
+    position: relative;
+    right:80px;
+    top: 170px;
+}   
